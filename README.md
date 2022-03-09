@@ -1,4 +1,4 @@
-# yearning has Directory traversal vulnerability
+# yearning has arbitrary file read vulnerability
 
 ## Overview
 
