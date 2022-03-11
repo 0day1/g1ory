@@ -1,4 +1,4 @@
-# yearning has arbitrary file read vulnerability
+# Yearning have directory traversal vulnerability
 
 ## Overview
 
@@ -17,6 +17,10 @@ version: v 2.3.5 Neptune
 version: v 2.3.6 Neptune
 
 ## 2.Vulnerability details
+
+There are about hundreds of servers affected by vulnerabilities.
+
+![image-20220311212732755](img/image-20220311212732755.png)
 
 POC
 
